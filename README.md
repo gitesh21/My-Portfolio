@@ -34,14 +34,22 @@ Comparative Study on Music Genre Classification using Machine Learning Models (D
 •Achieved 76% and 67% accuracies for SVM and k-NN models respectively on the GTZAN dataset.
 •Conducted extensive literature review and authored a dissertation emphasizing data-driven decision-making techniques.
 •Presented findings in a detailed presentation, receiving positive feedback and a distinction grade.
+
+Here is my dissertation paper for your perusal : [View my dissertation] (https://github.com/gitesh21/My-Portfolio/blob/main/Dissertation%20paper.pdf)
+
+My Reflective Essay on dissertation : [Reflective Essay] (https://github.com/gitesh21/My-Portfolio/blob/main/Reflective%20Essay.pdf)
+
 Grade achieved : Distinction
 
 CIFAR 10 Classification Model Neural Network and Deep Learning
 
 •Developed a custom deep learning model with convolutional layers, achieving high accuracy through optimized activations and batch normalization.
+
 Fake News Detection using Natural Language Processing
 
 •Applied NLP techniques for fake news detection, focusing on data preprocessing, feature extraction, and classifier development.
+
+
 Big Data Ethereum Analysis
 
 •Leveraged Apache Spark for in depth analysis of Ethereum network transactions from August 2015 to January 2019.
