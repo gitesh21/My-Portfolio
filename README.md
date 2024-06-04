@@ -35,9 +35,9 @@ Comparative Study on Music Genre Classification using Machine Learning Models (D
 •Conducted extensive literature review and authored a dissertation emphasizing data-driven decision-making techniques.
 •Presented findings in a detailed presentation, receiving positive feedback and a distinction grade.
 
-Here is my dissertation paper for your perusal : [View my dissertation] (https://github.com/gitesh21/My-Portfolio/blob/main/Dissertation%20paper.pdf)
+Here is my dissertation paper for your perusal : [View my dissertation](https://github.com/gitesh21/My-Portfolio/blob/main/Dissertation%20paper.pdf)
 
-My Reflective Essay on dissertation : [Reflective Essay] (https://github.com/gitesh21/My-Portfolio/blob/main/Reflective%20Essay.pdf)
+My Reflective Essay on dissertation : [Reflective Essay](https://github.com/gitesh21/My-Portfolio/blob/main/Reflective%20Essay.pdf)
 
 Grade achieved : Distinction
 
