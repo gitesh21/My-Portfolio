@@ -33,7 +33,7 @@ Comparative Study on Music Genre Classification using Machine Learning Models (D
 
 •Achieved 76% and 67% accuracies for SVM and k-NN models respectively on the GTZAN dataset.
 •Conducted extensive literature review and authored a dissertation emphasizing data-driven decision-making techniques.
-•Presented findings in a detailed presentation, receiving positive feedback and a distinction grade.
+•Presented findings in a detailed presentation, and a refelective essay on the overall effort.
 
 Here is my dissertation paper for your perusal : [View my dissertation](https://github.com/gitesh21/My-Portfolio/blob/main/Dissertation%20paper.pdf)
 
