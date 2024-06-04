@@ -15,7 +15,7 @@ Pune, India
 ### Education
 Master of Science(MSc) in Big Data Science (Sept 2022 to Sept 2023)
 
-Queen Mary University of London
+#### Queen Mary University of London
 •Key Modules: Data Mining, Big Data Processing, Machine Learning, Applied Statistics, Deep learning & Neural Networks.
 London, United Kingdom
 •Classification Grade : Distinction
