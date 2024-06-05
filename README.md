@@ -43,14 +43,17 @@ My Reflective Essay on dissertation : [Reflective Essay](https://github.com/gite
 #### CIFAR 10 Classification Model Neural Network and Deep Learning
 
 •Developed a custom deep learning model with convolutional layers, achieving high accuracy through optimized activations and batch normalization.
+* [GitHub Repository: CIFAR 10 Classification Model Neural Network and Deep Learning](https://github.com/gitesh21/CIFAR-10-Classification-Model-Neural-Network-and-Deep-Learning)
 
 
 #### Fake News Detection using Natural Language Processing
 
 •Applied NLP techniques for fake news detection, focusing on data preprocessing, feature extraction, and classifier development.
+[[GitHub Repository: Fake News Detection using Natural Language Processing](https://github.com/gitesh21/Fake-News-Detection--NLP)
 
 
-####Big Data Ethereum Analysis
+#### Big Data Ethereum Analysis
 
 •Leveraged Apache Spark for in depth analysis of Ethereum network transactions from August 2015 to January 2019.
 •Employed RDDs and DataFrames techniques to enhance the efficiency of big data processing utilizing python for the analysis.
+[GitHub Repository:Big Data Ethereum Analysis](https://github.com/gitesh21/Big-Data-Ethereum-Analysis)
