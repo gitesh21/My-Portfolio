@@ -3,9 +3,8 @@
 ## Work Experience
 #### Data Analyst/System Engineer (Aug 2021 to Aug 2022) @Infosys Ltd.
 
-•Collaborated on data migration projects for a Chinese gas company, implementing data preprocessing techniques.
-Pune, India
-•Achieved approximately 20% reduction in the data processing by applying effective SQL queries.
+•Engineered data migration projects using AWS services, achieving 95% data integrity and significantly reducing migration time.
+•Enhanced SQL queries and data pipelines using Python and Docker, improving processing time by 20% and increasing workflow efficiency.
 •Assisted in the development of comprehensive data reports and analyses, ensuring data accuracy and integrity.
 
 
