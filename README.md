@@ -4,6 +4,7 @@
 #### Data Analyst/System Engineer (Aug 2021 to Aug 2022) @Infosys Ltd.
 
 •Engineered data migration projects using AWS services, achieving 95% data integrity and significantly reducing migration time.
+
 •Enhanced SQL queries and data pipelines using Python and Docker, improving processing time by 20% and increasing workflow efficiency.
 •Assisted in the development of comprehensive data reports and analyses, ensuring data accuracy and integrity.
 
