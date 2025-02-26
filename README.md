@@ -1,12 +1,7 @@
 # Data Scientist
+📍 London, UK
 
-## Work Experience
-#### Data Analyst/System Engineer (Aug 2021 to Aug 2022) @Infosys Ltd.
-
-•Engineered data migration projects using AWS services, achieving 95% data integrity and significantly reducing migration time.
-•Enhanced SQL queries and data pipelines using Python and Docker, improving processing time by 20% and increasing workflow efficiency.
-•Assisted in the development of comprehensive data reports and analyses, ensuring data accuracy and integrity.
-
+I am a Data Scientist with a strong foundation in SQL, Python, and Machine Learning, experienced in building ETL pipelines, scalable data solutions, and optimizing workflows. My background includes projects in Big Data, Machine Learning, Deep Learning, and Cloud technologies to drive impactful data-driven decisions. Currently, I am seeking opportunities in Data Science, Data Engineering, or Data Analytics to kickstart my career and grow into a competitive Data domain. Based in London, UK, I am open to both onsite and remote roles
 
 ## Education
 #### Master of Science(MSc) in Big Data Science (Sept 2022 to Sept 2023)
@@ -15,12 +10,19 @@
 •Key Modules: Data Mining, Big Data Processing, Machine Learning, Applied Statistics, Deep learning & Neural Networks.
 London, United Kingdom
 •Classification Grade : Distinction
-Bachelor of Engineering in Information Technology (Aug 2018 to Aug 2021)
 
 #### SGBAU University
 •Key Modules: Data Structures, Python, JAVA, MySQL.
 Shegaon, India
 Grade : First Class
+Bachelor of Engineering in Information Technology (Aug 2018 to Aug 2021)
+
+## Work Experience
+#### Data Analyst (Sep 2021 to Aug 2022) @Infosys Ltd.
+
+•Engineered data migration projects using AWS services, achieving 95% data integrity and significantly reducing migration time.
+•Enhanced SQL queries and data pipelines using Python and Docker, improving processing time by 20% and increasing workflow efficiency.
+•Assisted in the development of comprehensive data reports and analyses, ensuring data accuracy and integrity.
 
 
 ## Projects
