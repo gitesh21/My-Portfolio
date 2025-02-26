@@ -24,7 +24,6 @@ Bachelor of Engineering in Information Technology (Aug 2018 to Aug 2021)
 •Enhanced SQL queries and data pipelines using Python and Docker, improving processing time by 20% and increasing workflow efficiency.
 •Assisted in the development of comprehensive data reports and analyses, ensuring data accuracy and integrity.
 
-
 ## Projects
  
 #### Comparative Study on Music Genre Classification using Machine Learning Models (Dissertation))
