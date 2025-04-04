@@ -30,7 +30,7 @@ Bachelor of Engineering in Information Technology (Aug 2018 to Aug 2021)
 
 •Achieved 76% and 67% accuracies for SVM and k-NN models respectively on the GTZAN dataset.
 •Conducted extensive literature review and authored a dissertation emphasizing data-driven decision-making techniques.
-•Presented findings in a detailed presentation, and a refelective essay on the overall effort.
+•Presented findings in a detailed presentation, and a reflective essay on the overall effort.
 
 Here is my dissertation paper for your perusal : [View my dissertation](https://github.com/gitesh21/My-Portfolio/blob/main/Dissertation%20paper.pdf)
 
