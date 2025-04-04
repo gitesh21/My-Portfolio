@@ -1,7 +1,7 @@
 # Data Scientist
 📍 London, UK
 
-I am a Data Scientist with a strong foundation in SQL, Python, and Machine Learning, experienced in building ETL pipelines, scalable data solutions, and optimizing workflows. My background includes projects in Big Data, Machine Learning, Deep Learning, and Cloud technologies to drive impactful data-driven decisions. Currently, I am seeking opportunities in Data Science, Data Engineering, or Data Analytics to kickstart my career and grow into a competitive Data domain. Based in London, UK, I am open to both onsite and remote roles
+Data Scientist with a Distinction MSc from QMUL, skilled in SQL, Python, and Machine Learning. Proven track record in building ETL pipelines, scalable data solutions, and optimizing workflows. Passionate about turning data into impactful insights. Seeking data roles to kickstart my career and grow in the field.
 
 ## Education
 #### Master of Science(MSc) in Big Data Science (Sept 2022 to Sept 2023)
